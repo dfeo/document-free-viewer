@@ -21,7 +21,7 @@ http://localhost:89/#  <-- document URL
 
 ## Example 1
 
-http://localhost:89/files/webviewer-demo-annotated.pdf
+http://localhost:89/#http://localhost:89/files/webviewer-demo-annotated.pdf
 
 ## Example 2
 
