@@ -19,8 +19,11 @@ docker-compose up -d
 
 http://localhost:89/#  <-- document URL
 
-## Example
+## Example 1
 
 http://localhost:89/files/webviewer-demo-annotated.pdf
+
+## Example 2
+
 http://localhost:89/#http://localhost:89/files/file-sample_100kB.doc
 
