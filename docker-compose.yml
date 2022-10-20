@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  web:
+    container_name: visor
+    image: daniel8812/visor-docs:latest
+    ports:
+      - 89:80
